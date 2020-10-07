@@ -1,9 +1,11 @@
 import React from 'react'
+import Quotes from './components/Quotes'
+
 
 const App = ()=> {
   return (
     <div>
-      hello 
+     <Quotes />
     </div>
   )
 }
